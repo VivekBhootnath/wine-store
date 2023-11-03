@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wine-store/static/css/main.cd9a417e.css",
+    "main.js": "/wine-store/static/js/main.8c7874f2.js",
+    "static/js/787.99c2fc21.chunk.js": "/wine-store/static/js/787.99c2fc21.chunk.js",
+    "index.html": "/wine-store/index.html",
+    "main.cd9a417e.css.map": "/wine-store/static/css/main.cd9a417e.css.map",
+    "main.8c7874f2.js.map": "/wine-store/static/js/main.8c7874f2.js.map",
+    "787.99c2fc21.chunk.js.map": "/wine-store/static/js/787.99c2fc21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9a417e.css",
+    "static/js/main.8c7874f2.js"
+  ]
+}
