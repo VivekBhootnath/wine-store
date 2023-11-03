@@ -1,0 +1,27 @@
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 2px solid #acabab; 
+  width: 80%; /* Adjust the width as needed */
+  border-radius: 8px;
+}
+
+th {
+  background-color: #f1cece;
+  border: 1px solid #eee; 
+  padding: 12px;
+  text-align: center;
+}
+
+td {
+  border: 1px solid #ddd; 
+  padding: 12px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  margin: 20px 0;
+  /* font-size: 24px; */
+  color: #333;
+}
