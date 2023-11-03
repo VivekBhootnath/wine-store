@@ -16,3 +16,5 @@ Install dependencies using Yarn (yarn install).
 Start the development server with yarn start,
 and open your web browser to http://localhost:3000 to view the calculated statistics tables for the flavanoid and gamma parameters.
 
+Screenshot 
+![Screenshot 1](screenshot1.jpg)
